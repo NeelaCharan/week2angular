@@ -1,0 +1,25 @@
+.section1
+{
+  border:2px solid black;
+  padding:28px;
+  margin:10px;
+  float:left;
+}
+img{
+  padding: 3px;
+  width:180px;
+  height: 180px;
+  border: 1px solid black;
+}
+.section2
+{
+  border:2px solid black;
+  padding:28px;
+  margin:10px;
+  float: right;
+  }
+h1{
+  color:maroon;
+  text-align: center;
+  font-size: 1.5em;
+}
